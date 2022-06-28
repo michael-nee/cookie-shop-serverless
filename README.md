@@ -7,8 +7,6 @@ We will be using SAM (https://github.com/awslabs/serverless-application-model)
 
 Most services will be using the free tier so costs should be very minimal.
 
-TRST
-
 ### Prerequisites:
 1. Signup for an AWS account
 1. Fork this project into your GitHub account
